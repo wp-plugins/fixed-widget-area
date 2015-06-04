@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-This plugin freezes the admin ‘sidebar widget area’ while scrolling. This helps admin to drag any widget to the respective place easily.
+This plugin freezes the admin 'sidebar widget area' while scrolling. This helps admin to drag any widget to the respective place easily.
 == Description ==
 1. This plugin fixes admin sidebar widget area while scrolling.so admin can drag widget easily to respective area without moving up and down.
 2. If sidebar widget area height increases window height,then fixed property of widget area get removed and it allows now to scroll and add widgets in bottom area.
